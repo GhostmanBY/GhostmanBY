@@ -23,16 +23,12 @@
 </div>
 
 ---
-
 ## 🙋‍♂️ Sobre mí
 
-```yaml
-nombre:      Tu Nahuel 
-ubicación:   Tu Mar del palta, Argentina 🌍
-rol:         Back End Developer
-```
-- 📫 Contacto: **nahuelromero2709@gmail.com**
-
+- 👤 **Nombre:** Nahuel
+- 📍 **Ubicación:** Mar del Plata, Argentina 🇦🇷
+- 💼 **Rol:** Back End Developer
+- 📫 **Contacto:** nahuelromero2709@gmail.com
 ---
 
 ## 🛠️ Stack Tecnológico
