@@ -1,11 +1,6 @@
 <div align="center">
-        
-                            ```
-                            ╔══════════════════════════════════════════════════════╗
-                            ║                Hola, soy GhostmanBY 👋               ║
-                            ╚══════════════════════════════════════════════════════╝
-                            ```
 
+# 👋 Hola, soy GhostmanBY
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
 
 <br/>
